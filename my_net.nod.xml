@@ -1,0 +1,8 @@
+<nodes>
+    <node id="n_west" x="0" y="200"/>
+    <node id="n_south_stem" x="200" y="0"/>
+    <node id="J1" x="200" y="200" type="traffic_light"/>
+    <node id="n_north" x="400" y="400"/>
+    <node id="J2" x="400" y="200" type="traffic_light"/>
+    <node id="n_exit" x="400" y="0"/>
+</nodes>

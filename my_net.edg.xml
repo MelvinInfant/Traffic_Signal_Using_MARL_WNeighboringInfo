@@ -1,0 +1,7 @@
+<edges>
+    <edge id="west_to_J1" from="n_west" to="J1" numLanes="1" speed="13.89"/>
+    <edge id="stem_to_J1" from="n_south_stem" to="J1" numLanes="1" speed="13.89"/>
+    <edge id="J1_to_J2" from="J1" to="J2" numLanes="1" speed="13.89"/>
+    <edge id="north_to_J2" from="n_north" to="J2" numLanes="1" speed="13.89"/>
+    <edge id="J2_to_exit" from="J2" to="n_exit" numLanes="1" speed="13.89"/>
+</edges>
